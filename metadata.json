@@ -1,0 +1,6 @@
+{
+  "name": "TetherYield",
+  "description": "USDT investment and staking platform featuring 15 yield tiers, market analytics, automated withdrawals, referral rewards, multi-language support, and admin treasury manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
